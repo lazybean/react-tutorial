@@ -1,7 +1,7 @@
 {
   "jspm": {
     "directories": {
-      "baseURL": "src"
+      "baseURL": "public"
     },
     "dependencies": {
       "react": "npm:react@^0.13.2"
